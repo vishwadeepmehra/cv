@@ -105,11 +105,11 @@ margin: auto;
 .btn{
   font-family: 'Montserrat', serif;
   border: none;
-background-color: #85251a;
+background-color: #85251a !important;
 
 }
 .btn:hover{
-  background-color: #ffffff;
+  background-color: #ffffff !important;
   color: black;
   border: none;
 }
